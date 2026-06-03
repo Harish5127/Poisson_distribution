@@ -70,7 +70,10 @@ else:
 # Output : 
 
 <img width="734" height="341" alt="image" src="https://github.com/user-attachments/assets/fdd7a1fa-0ad9-47d8-a2cb-d887b39e30e9" />
-
+## Developed by : Harish R
+## Register No : 212224230085
+# GitHub Link : 
+https://github.com/Harish5127/Poisson_distribution/tree/main
 
 # Results
 
